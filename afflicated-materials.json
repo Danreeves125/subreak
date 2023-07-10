@@ -1,0 +1,1066 @@
+{
+	"materials": [
+		{
+			"name": "Afflicted Fang",
+			"icon": "https://img.game8.co/3545354/7315b315180186e6ad6bf19fa002cf15.png/show",
+			"monsters": [
+				{
+					"name": "Magnamalo",
+					"icon": "https://img.game8.co/3375822/4db4a66935ea447d206947feaec92d81.png/show"
+				},
+				{
+					"name": "Barioth",
+					"icon": "https://img.game8.co/3375847/821f78ac1f2a29bdab9a7cca99087375.png/show"
+				},
+				{
+					"name": "Nargacuga",
+					"icon": "https://img.game8.co/3375836/bfe852a06204a318c78f95d6d78d7cb9.png/show"
+				},
+				{
+					"name": "Garangolm",
+					"icon": "https://img.game8.co/3542024/e03932b3d23ecd153378d5320b2f882f.png/show"
+				}
+			],
+			"level": ""
+		},
+		{
+			"name": "Afflicted Claw",
+			"icon": "https://img.game8.co/3545361/7d8572c48c8cb8db281a2277bce658ef.png/show",
+			"monsters": [
+				{
+					"name": "Goss Harag",
+					"icon": "https://img.game8.co/3375831/476d64742ce0576ac29ea55888135070.png/show"
+				},
+				{
+					"name": "Almudron",
+					"icon": "https://img.game8.co/3375842/df4dd8964844c2f324aa7170ccab80cb.png/show"
+				},
+				{
+					"name": "Rakna-Kadaki",
+					"icon": "https://img.game8.co/3375732/175efe6a43782d47e739c2a49a99aeb9.png/show"
+				},
+				{
+					"name": "Aurora Somnacanth",
+					"icon": "https://img.game8.co/3542022/ee732d5a0b318f02afdbd0971a837c07.png/show"
+				}
+			],
+			"level": ""
+		},
+		{
+			"name": "Afflicted Bone",
+			"icon": "https://img.game8.co/3543997/e896d3523e0220ddddcf4f92b92353a0.png/show",
+			"monsters": [
+				{
+					"name": "Arzuros",
+					"icon": "https://img.game8.co/3375825/8b4afac41e73e555c03bee439e1eada4.png/show"
+				},
+				{
+					"name": "Lagombi",
+					"icon": "https://img.game8.co/3375837/eaa377f71e2a8545213a792c8c143bcf.png/show"
+				},
+				{
+					"name": "Volvidon",
+					"icon": "https://img.game8.co/3375841/ed93dfa62bf630a6ebda5003ce0fc8db.png/show"
+				}
+			],
+			"level": "1–30"
+		},
+		{
+			"name": "Afflicted Pelt",
+			"icon": "https://img.game8.co/3544061/594047697dfe457745044e1a2832e92b.png/show",
+			"monsters": [
+				{
+					"name": "Great Izuchi",
+					"icon": "https://img.game8.co/3375821/1c7c3f8adb34aa1b4232db1eba4ca4f8.png/show"
+				},
+				{
+					"name": "Great Wroggi",
+					"icon": "https://img.game8.co/3375835/01659bbcf15707f8094c6521e3681c12.png/show"
+				},
+				{
+					"name": "Kulu-Ya-Ku",
+					"icon": "https://img.game8.co/3375845/8943aefc725dbacc3bed0f4fdffab0b6.png/show"
+				},
+				{
+					"name": "Great Baggi",
+					"icon": "https://img.game8.co/3375834/49412e0102a7d3d2abee1df7b90d078c.png/show"
+				}
+			],
+			"level": "1–30"
+		},
+		{
+			"name": "Afflicted Monster Bone",
+			"icon": "https://img.game8.co/3544090/cb71f23461a538ec068721c7c181c220.png/show",
+			"monsters": [
+				{
+					"name": "Aknosom",
+					"icon": "https://img.game8.co/3375839/39e5672424274560ff04123ec77f9532.png/show"
+				},
+				{
+					"name": "Royal Ludroth",
+					"icon": "https://img.game8.co/3375848/eb809a7360d5bc614d44cab174f74d33.png/show"
+				},
+				{
+					"name": "Basarios",
+					"icon": "https://img.game8.co/3375830/ecdef4687fd6d56783712031f6f0a11f.png/show"
+				},
+				{
+					"name": "Barroth",
+					"icon": "https://img.game8.co/3375846/da52362b53a22fc7dcd8c6931ef7c3da.png/show"
+				}
+			],
+			"level": "11–30"
+		},
+		{
+			"name": "Afflicted Blood",
+			"icon": "https://img.game8.co/3544162/5f1af83d526cff3ee73888b308c2690b.png/show",
+			"monsters": [
+				{
+					"name": "Tetranadon",
+					"icon": "https://img.game8.co/3375851/80940cc69c4a37e6d7da946e8e52a55a.png/show"
+				},
+				{
+					"name": "Bishaten",
+					"icon": "https://img.game8.co/3375826/32fa246d44f8b3321807e02fd038b784.png/show"
+				},
+				{
+					"name": "Khezu",
+					"icon": "https://img.game8.co/3375827/fd31aad1bc69327678bf83b2970ca713.png/show"
+				},
+				{
+					"name": "Daimyo Hermitaur",
+					"icon": "https://img.game8.co/3542034/9cbddf24825feebb244555969f380160.png/show"
+				}
+			],
+			"level": "11–30"
+		},
+		{
+			"name": "Afflicted Shell",
+			"icon": "https://img.game8.co/3544245/6a31c123d1d1cd55602ae4a0a2e8f88a.png/show",
+			"monsters": [
+				{
+					"name": "Somnacanth",
+					"icon": "https://img.game8.co/3375773/ea876522ccce52c15466de5ceeca8e33.png/show"
+				},
+				{
+					"name": "Jyuratodus",
+					"icon": "https://img.game8.co/3375832/4ad3ce2b553aaa409704c677e8409fe2.png/show"
+				},
+				{
+					"name": "Shogun Ceanataur",
+					"icon": "https://img.game8.co/3542032/a4e70c7d038e98de9ca48bebd1b3ee70.png/show"
+				},
+				{
+					"name": "Blood Orange Bishaten",
+					"icon": "https://img.game8.co/3542021/d8a3143832b13c4362a84fc89054db99.png/show"
+				}
+			],
+			"level": "21–30"
+		},
+		{
+			"name": "Afflicted Scale",
+			"icon": "https://img.game8.co/3544182/46d2b4f237b2f2299de3c15ac66552f0.png/show",
+			"monsters": [
+				{
+					"name": "Tobi-Kadachi",
+					"icon": "https://img.game8.co/3375850/263257d06340489821ced578df94954f.png/show"
+				},
+				{
+					"name": "Pukei-Pukei",
+					"icon": "https://img.game8.co/3375840/8fa204bde9e6e4abe37ac5393da7e0f3.png/show"
+				},
+				{
+					"name": "Rathian",
+					"icon": "https://img.game8.co/3375824/61edbf2cebf19d0b9502e3a6d6562274.png/show"
+				},
+				{
+					"name": "Anjanath",
+					"icon": "https://img.game8.co/3375853/e8910d0cd4b8113ae5c35b82ecae902d.png/show"
+				}
+			],
+			"level": "21–30"
+		},
+		{
+			"name": "Afflicted Hide+",
+			"icon": "https://img.game8.co/3560947/37f9b8f181140393fdd5256222b2830d.png/show",
+			"monsters": [
+				{
+					"name": "Great Izuchi",
+					"icon": "https://img.game8.co/3375821/1c7c3f8adb34aa1b4232db1eba4ca4f8.png/show"
+				},
+				{
+					"name": "Great Wroggi",
+					"icon": "https://img.game8.co/3375835/01659bbcf15707f8094c6521e3681c12.png/show"
+				},
+				{
+					"name": "Kulu-Ya-Ku",
+					"icon": "https://img.game8.co/3375845/8943aefc725dbacc3bed0f4fdffab0b6.png/show"
+				},
+				{
+					"name": "Great Baggi",
+					"icon": "https://img.game8.co/3375834/49412e0102a7d3d2abee1df7b90d078c.png/show"
+				}
+			],
+			"level": "31–100"
+		},
+		{
+			"name": "Afflicted Hardbone",
+			"icon": "https://img.game8.co/3560950/7ee44acb0bc86dcc4cbc94102bdec11c.png/show",
+			"monsters": [
+				{
+					"name": "Arzuros",
+					"icon": "https://img.game8.co/3375825/8b4afac41e73e555c03bee439e1eada4.png/show"
+				},
+				{
+					"name": "Lagombi",
+					"icon": "https://img.game8.co/3375837/eaa377f71e2a8545213a792c8c143bcf.png/show"
+				},
+				{
+					"name": "Volvidon",
+					"icon": "https://img.game8.co/3375841/ed93dfa62bf630a6ebda5003ce0fc8db.png/show"
+				}
+			],
+			"level": "31–100"
+		},
+		{
+			"name": "Afflicted Claw+",
+			"icon": "https://img.game8.co/3560943/a0a88213c90c4d1850c5f33173261a6f.png/show",
+			"monsters": [
+				{
+					"name": "Goss Harag",
+					"icon": "https://img.game8.co/3375831/476d64742ce0576ac29ea55888135070.png/show"
+				},
+				{
+					"name": "Almudron",
+					"icon": "https://img.game8.co/3375842/df4dd8964844c2f324aa7170ccab80cb.png/show"
+				},
+				{
+					"name": "Rakna-Kadaki",
+					"icon": "https://img.game8.co/3375732/175efe6a43782d47e739c2a49a99aeb9.png/show"
+				},
+				{
+					"name": "Aurora Somnacanth",
+					"icon": "https://img.game8.co/3542022/ee732d5a0b318f02afdbd0971a837c07.png/show"
+				}
+			],
+			"level": "31–100"
+		},
+		{
+			"name": "Afflicted Dragon Blood",
+			"icon": "https://img.game8.co/3560946/b3b70fe5de4a4e57baf2d4753fc3591a.png/show",
+			"monsters": [
+				{
+					"name": "Tetranadon",
+					"icon": "https://img.game8.co/3375851/80940cc69c4a37e6d7da946e8e52a55a.png/show"
+				},
+				{
+					"name": "Bishaten",
+					"icon": "https://img.game8.co/3375826/32fa246d44f8b3321807e02fd038b784.png/show"
+				},
+				{
+					"name": "Khezu",
+					"icon": "https://img.game8.co/3375827/fd31aad1bc69327678bf83b2970ca713.png/show"
+				},
+				{
+					"name": "Daimyo Hermitaur",
+					"icon": "https://img.game8.co/3542034/9cbddf24825feebb244555969f380160.png/show"
+				}
+			],
+			"level": "31–100"
+		},
+		{
+			"name": "Afflicted Scale+",
+			"icon": "https://img.game8.co/3560951/f86709cfbd4d75a7bf8326313a0101ff.png/show",
+			"monsters": [
+				{
+					"name": "Tobi-Kadachi",
+					"icon": "https://img.game8.co/3375850/263257d06340489821ced578df94954f.png/show"
+				},
+				{
+					"name": "Pukei-Pukei",
+					"icon": "https://img.game8.co/3375840/8fa204bde9e6e4abe37ac5393da7e0f3.png/show"
+				},
+				{
+					"name": "Rathian",
+					"icon": "https://img.game8.co/3375824/61edbf2cebf19d0b9502e3a6d6562274.png/show"
+				},
+				{
+					"name": "Anjanath",
+					"icon": "https://img.game8.co/3375853/e8910d0cd4b8113ae5c35b82ecae902d.png/show"
+				}
+			],
+			"level": "31–100"
+		},
+		{
+			"name": "Afflicted Fang+",
+			"icon": "https://img.game8.co/3560944/c5eff9f19a5acd1cb34d411d0ae51398.png/show",
+			"monsters": [
+				{
+					"name": "Magnamalo",
+					"icon": "https://img.game8.co/3375822/4db4a66935ea447d206947feaec92d81.png/show"
+				},
+				{
+					"name": "Barioth",
+					"icon": "https://img.game8.co/3375847/821f78ac1f2a29bdab9a7cca99087375.png/show"
+				},
+				{
+					"name": "Nargacuga",
+					"icon": "https://img.game8.co/3375836/bfe852a06204a318c78f95d6d78d7cb9.png/show"
+				},
+				{
+					"name": "Garangolm",
+					"icon": "https://img.game8.co/3542024/e03932b3d23ecd153378d5320b2f882f.png/show"
+				}
+			],
+			"level": "31–100"
+		},
+		{
+			"name": "Afflicted Monster Hardbone",
+			"icon": "https://img.game8.co/3560949/14641eb0625e6ccc73331dcff2d001f5.png/show",
+			"monsters": [
+				{
+					"name": "Aknosom",
+					"icon": "https://img.game8.co/3375839/39e5672424274560ff04123ec77f9532.png/show"
+				},
+				{
+					"name": "Royal Ludroth",
+					"icon": "https://img.game8.co/3375848/eb809a7360d5bc614d44cab174f74d33.png/show"
+				},
+				{
+					"name": "Basarios",
+					"icon": "https://img.game8.co/3375830/ecdef4687fd6d56783712031f6f0a11f.png/show"
+				},
+				{
+					"name": "Barroth",
+					"icon": "https://img.game8.co/3375846/da52362b53a22fc7dcd8c6931ef7c3da.png/show"
+				}
+			],
+			"level": "31–100"
+		},
+		{
+			"name": "Afflicted Carapace",
+			"icon": "https://img.game8.co/3560948/bb8eaa667196505b07cd600926c19a26.png/show",
+			"monsters": [
+				{
+					"name": "Somnacanth",
+					"icon": "https://img.game8.co/3375773/ea876522ccce52c15466de5ceeca8e33.png/show"
+				},
+				{
+					"name": "Jyuratodus",
+					"icon": "https://img.game8.co/3375832/4ad3ce2b553aaa409704c677e8409fe2.png/show"
+				},
+				{
+					"name": "Shogun Ceanataur",
+					"icon": "https://img.game8.co/3542032/a4e70c7d038e98de9ca48bebd1b3ee70.png/show"
+				},
+				{
+					"name": "Blood Orange Bishaten",
+					"icon": "https://img.game8.co/3542021/d8a3143832b13c4362a84fc89054db99.png/show"
+				}
+			],
+			"level": "31–100"
+		},
+		{
+			"name": "Afflicted Dire Bone",
+			"icon": "https://img.game8.co/3560941/e5ee669940699e724cc78eadcb4aef5d.png/show",
+			"monsters": [
+				{
+					"name": "Tigrex",
+					"icon": "https://img.game8.co/3375849/8353de000124c6b1931c0c9169435684.png/show"
+				},
+				{
+					"name": "Lunagaron",
+					"icon": "https://img.game8.co/3542029/bb31d50499116fa61d4b9713d96ffb25.png/show"
+				},
+				{
+					"name": "Magma Almudron",
+					"icon": "https://img.game8.co/3542033/e4411018551832fc457d585fa4571e89.png/show"
+				}
+			],
+			"level": "51–100"
+		},
+		{
+			"name": "Afflicted Dire Scale",
+			"icon": "https://img.game8.co/3560945/504e116cbf8a9c45441ac2cf6307b1a0.png/show",
+			"monsters": [
+				{
+					"name": "Rathalos",
+					"icon": "https://img.game8.co/3375852/a574997232739440d53272f4c026d119.png/show"
+				},
+				{
+					"name": "Mizutsune",
+					"icon": "https://img.game8.co/3375823/dbe2ed198bb33237f732f67f95dadf8c.png/show"
+				},
+				{
+					"name": "Astalos",
+					"icon": "https://img.game8.co/3538226/9692c75569ed0d860d92e5035709b4ee.png/show"
+				}
+			],
+			"level": "51–100"
+		},
+		{
+			"name": "Afflicted Dire Horn",
+			"icon": "https://img.game8.co/3560942/4f93f8df40630496305479a6167c8dee.png/show",
+			"monsters": [
+				{
+					"name": "Zinogre",
+					"icon": "https://img.game8.co/3375854/f5f2dfd906d9f5804946e2bbb65ff918.png/show"
+				},
+				{
+					"name": "Diablos",
+					"icon": "https://img.game8.co/3375843/7b9cfb8ccd544f53fb0c18848c1543b3.png/show"
+				},
+				{
+					"name": "Seregios",
+					"icon": "https://img.game8.co/3542031/b71bc78849406985179dceab2b80f218.png/show"
+				}
+			],
+			"level": "51–100"
+		},
+		{
+			"name": "Afflicted Dire Claw",
+			"icon": "https://img.game8.co/3588910/782c2302c75f8db5845ce1eae13c1c9c.png/show",
+			"monsters": [
+				{
+					"name": "Rajang",
+					"icon": "https://img.game8.co/3375731/3aa2a4ce2686fc21796cc841f401cf6e.png/show"
+				},
+				{
+					"name": "Pyre Rakna-Kadaki",
+					"icon": "https://img.game8.co/3542028/04fa4376a72ed622e1548abcaad192d4.png/show"
+				}
+			],
+			"level": "71-110"
+		},
+		{
+			"name": "Afflicted Dire Shell",
+			"icon": "https://img.game8.co/3588908/18104bfbb1f4b5d3124076e3f92a4597.png/show",
+			"monsters": [
+				{
+					"name": "Bazelgeuse",
+					"icon": "https://img.game8.co/3375855/a94f869946426db1b1c55cec32b2893a.png/show"
+				},
+				{
+					"name": "Gore Magala",
+					"icon": "https://img.game8.co/3542030/d6381694576ed57eef4fe5376375dc6c.png/show"
+				},
+				{
+					"name": "Espinas",
+					"icon": "https://img.game8.co/3542027/094b9fab96ac1b78370d7e4a2a01f43d.png/show"
+				}
+			],
+			"level": "71-110"
+		},
+		{
+			"name": "Afflicted Dire Wing",
+			"icon": "https://img.game8.co/3615836/f341fc1705796a7e2fa058df7ebeec96.png/show",
+			"monsters": [
+				{
+					"name": "Silver Rathalos",
+					"icon": "https://img.game8.co/3560002/0aded2abeec4fbd333ab019be7e04ca5.png/show"
+				},
+				{
+					"name": "Gold Rathian",
+					"icon": "https://img.game8.co/3560001/68c7a67057cd3230dc70946b154852a3.png/show"
+				}
+			],
+			"level": "91-140"
+		},
+		{
+			"name": "Afflicted Dire Blood",
+			"icon": "https://img.game8.co/3615835/cde02806f8dd43a5f3e8ebe76136bd14.png/show",
+			"monsters": [
+				{
+					"name": "Seething Bazelgeuse",
+					"icon": "https://img.game8.co/3560003/98ac395d54edfe678d6aaad02a81a107.png/show"
+				},
+				{
+					"name": "Flaming Espinas",
+					"icon": "https://img.game8.co/3588186/bbc357e037e782dcec7140b595b257c5.png/show"
+				},
+				{
+					"name": "Chaotic Gore Magala",
+					"icon": "https://img.game8.co/3615586/bb1abbada681a7cac98afa232e57264b.png/show"
+				}
+			],
+			"level": "91-140"
+		},
+		{
+			"name": "Afflicted Dire Fang",
+			"icon": "https://img.game8.co/3588910/782c2302c75f8db5845ce1eae13c1c9c.png/show",
+			"monsters": [
+				{
+					"name": "Scorned Magnamalo",
+					"icon": "https://img.game8.co/3542025/c59624851e5c99c4f1bcc0793926a4b9.png/show"
+				},
+				{
+					"name": "Furious Rajang",
+					"icon": "https://img.game8.co/3542036/6f4b8bc92b8f04b69ef96be91c4e2206.png/show"
+				}
+			],
+			"level": "91-140"
+		},
+		{
+			"name": "Afflicted Slogbone",
+			"icon": "https://img.game8.co/3588904/1260420de97131743a77b96dd586d151.png/show",
+			"monsters": [
+				{
+					"name": "Arzuros",
+					"icon": "https://img.game8.co/3375825/8b4afac41e73e555c03bee439e1eada4.png/show"
+				},
+				{
+					"name": "Lagombi",
+					"icon": "https://img.game8.co/3375837/eaa377f71e2a8545213a792c8c143bcf.png/show"
+				},
+				{
+					"name": "Volvidon",
+					"icon": "https://img.game8.co/3375841/ed93dfa62bf630a6ebda5003ce0fc8db.png/show"
+				}
+			],
+			"level": "101-300"
+		},
+		{
+			"name": "Afflicted Thickhide",
+			"icon": "https://img.game8.co/3588942/0547c3aeaf45216c5afc568b5dc79ad5.png/show",
+			"monsters": [
+				{
+					"name": "Great Izuchi",
+					"icon": "https://img.game8.co/3375821/1c7c3f8adb34aa1b4232db1eba4ca4f8.png/show"
+				},
+				{
+					"name": "Great Wroggi",
+					"icon": "https://img.game8.co/3375835/01659bbcf15707f8094c6521e3681c12.png/show"
+				},
+				{
+					"name": "Kulu-Ya-Ku",
+					"icon": "https://img.game8.co/3375845/8943aefc725dbacc3bed0f4fdffab0b6.png/show"
+				},
+				{
+					"name": "Great Baggi",
+					"icon": "https://img.game8.co/3375834/49412e0102a7d3d2abee1df7b90d078c.png/show"
+				}
+			],
+			"level": "101-300"
+		},
+		{
+			"name": "Afflicted Pure Blood",
+			"icon": "https://img.game8.co/3588906/ebe9dc69a2dc264988fe08507824d382.png/show",
+			"monsters": [
+				{
+					"name": "Tetranadon",
+					"icon": "https://img.game8.co/3375851/80940cc69c4a37e6d7da946e8e52a55a.png/show"
+				},
+				{
+					"name": "Bishaten",
+					"icon": "https://img.game8.co/3375826/32fa246d44f8b3321807e02fd038b784.png/show"
+				},
+				{
+					"name": "Khezu",
+					"icon": "https://img.game8.co/3375827/fd31aad1bc69327678bf83b2970ca713.png/show"
+				},
+				{
+					"name": "Daimyo Hermitaur",
+					"icon": "https://img.game8.co/3542034/9cbddf24825feebb244555969f380160.png/show"
+				}
+			],
+			"level": "101-300"
+		},
+		{
+			"name": "Afflicted Monster Slogbone",
+			"icon": "https://img.game8.co/3589096/d5dc4b29418ac8cfb64dbe95b3cc5d4d.png/show",
+			"monsters": [
+				{
+					"name": "Aknosom",
+					"icon": "https://img.game8.co/3375839/39e5672424274560ff04123ec77f9532.png/show"
+				},
+				{
+					"name": "Royal Ludroth",
+					"icon": "https://img.game8.co/3375848/eb809a7360d5bc614d44cab174f74d33.png/show"
+				},
+				{
+					"name": "Basarios",
+					"icon": "https://img.game8.co/3375830/ecdef4687fd6d56783712031f6f0a11f.png/show"
+				},
+				{
+					"name": "Barroth",
+					"icon": "https://img.game8.co/3375846/da52362b53a22fc7dcd8c6931ef7c3da.png/show"
+				}
+			],
+			"level": "101-300"
+		},
+		{
+			"name": "Afflicted Cortex",
+			"icon": "https://img.game8.co/3588903/ae7ca2bba8fdc7259a7e6972144494e0.png/show",
+			"monsters": [
+				{
+					"name": "Somnacanth",
+					"icon": "https://img.game8.co/3375773/ea876522ccce52c15466de5ceeca8e33.png/show"
+				},
+				{
+					"name": "Jyuratodus",
+					"icon": "https://img.game8.co/3375832/4ad3ce2b553aaa409704c677e8409fe2.png/show"
+				},
+				{
+					"name": "Shogun Ceanataur",
+					"icon": "https://img.game8.co/3542032/a4e70c7d038e98de9ca48bebd1b3ee70.png/show"
+				},
+				{
+					"name": "Blood Orange Bishaten",
+					"icon": "https://img.game8.co/3542021/d8a3143832b13c4362a84fc89054db99.png/show"
+				}
+			],
+			"level": "101-300"
+		},
+		{
+			"name": "Afflicted Shard",
+			"icon": "https://img.game8.co/3588905/941377cebddaf6fad20c9884a3340fb3.png/show",
+			"monsters": [
+				{
+					"name": "Tobi-Kadachi",
+					"icon": "https://img.game8.co/3375850/263257d06340489821ced578df94954f.png/show"
+				},
+				{
+					"name": "Pukei-Pukei",
+					"icon": "https://img.game8.co/3375840/8fa204bde9e6e4abe37ac5393da7e0f3.png/show"
+				},
+				{
+					"name": "Rathian",
+					"icon": "https://img.game8.co/3375824/61edbf2cebf19d0b9502e3a6d6562274.png/show"
+				},
+				{
+					"name": "Anjanath",
+					"icon": "https://img.game8.co/3375853/e8910d0cd4b8113ae5c35b82ecae902d.png/show"
+				}
+			],
+			"level": "101-300"
+		},
+		{
+			"name": "Afflicted Hardclaw",
+			"icon": "https://img.game8.co/3588907/b1826c7d15ceae62906580d2a6c8a9dc.png/show",
+			"monsters": [
+				{
+					"name": "Goss Harag",
+					"icon": "https://img.game8.co/3375831/476d64742ce0576ac29ea55888135070.png/show"
+				},
+				{
+					"name": "Almudron",
+					"icon": "https://img.game8.co/3375842/df4dd8964844c2f324aa7170ccab80cb.png/show"
+				},
+				{
+					"name": "Rakna-Kadaki",
+					"icon": "https://img.game8.co/3375732/175efe6a43782d47e739c2a49a99aeb9.png/show"
+				},
+				{
+					"name": "Aurora Somnacanth",
+					"icon": "https://img.game8.co/3542022/ee732d5a0b318f02afdbd0971a837c07.png/show"
+				}
+			],
+			"level": "101-300"
+		},
+		{
+			"name": "Afflicted Hardfang",
+			"icon": "https://img.game8.co/3588909/aa633475606b553b071042875ab19d34.png/show",
+			"monsters": [
+				{
+					"name": "Magnamalo",
+					"icon": "https://img.game8.co/3375822/4db4a66935ea447d206947feaec92d81.png/show"
+				},
+				{
+					"name": "Barioth",
+					"icon": "https://img.game8.co/3375847/821f78ac1f2a29bdab9a7cca99087375.png/show"
+				},
+				{
+					"name": "Nargacuga",
+					"icon": "https://img.game8.co/3375836/bfe852a06204a318c78f95d6d78d7cb9.png/show"
+				},
+				{
+					"name": "Garangolm",
+					"icon": "https://img.game8.co/3542024/e03932b3d23ecd153378d5320b2f882f.png/show"
+				}
+			],
+			"level": "101-300"
+		},
+		{
+			"name": "Afflicted Dire Hardbone",
+			"icon": "https://img.game8.co/3588943/94c0f129f9a0d3c933ea61c12cb9ac73.png/show",
+			"monsters": [
+				{
+					"name": "Tigrex",
+					"icon": "https://img.game8.co/3375849/8353de000124c6b1931c0c9169435684.png/show"
+				},
+				{
+					"name": "Lunagaron",
+					"icon": "https://img.game8.co/3542029/bb31d50499116fa61d4b9713d96ffb25.png/show"
+				},
+				{
+					"name": "Magma Almudron",
+					"icon": "https://img.game8.co/3542033/e4411018551832fc457d585fa4571e89.png/show"
+				}
+			],
+			"level": "101-160"
+		},
+		{
+			"name": "Afflicted Dire Horn+",
+			"icon": "https://img.game8.co/3588911/cdd64b595d6f020efaa0c390dc84c79d.png/show",
+			"monsters": [
+				{
+					"name": "Zinogre",
+					"icon": "https://img.game8.co/3375854/f5f2dfd906d9f5804946e2bbb65ff918.png/show"
+				},
+				{
+					"name": "Diablos",
+					"icon": "https://img.game8.co/3375843/7b9cfb8ccd544f53fb0c18848c1543b3.png/show"
+				},
+				{
+					"name": "Seregios",
+					"icon": "https://img.game8.co/3542031/b71bc78849406985179dceab2b80f218.png/show"
+				}
+			],
+			"level": "101-160"
+		},
+		{
+			"name": "Afflicted Dire Scale+",
+			"icon": "https://img.game8.co/3589001/469239431bcbeb882f4ae6cd404eb909.png/show",
+			"monsters": [
+				{
+					"name": "Rathalos",
+					"icon": "https://img.game8.co/3375852/a574997232739440d53272f4c026d119.png/show"
+				},
+				{
+					"name": "Mizutsune",
+					"icon": "https://img.game8.co/3375823/dbe2ed198bb33237f732f67f95dadf8c.png/show"
+				},
+				{
+					"name": "Astalos",
+					"icon": "https://img.game8.co/3538226/9692c75569ed0d860d92e5035709b4ee.png/show"
+				}
+			],
+			"level": "101-160"
+		},
+		{
+			"name": "Risen Dragonbone",
+			"icon": "https://img.game8.co/3641280/7275786cd6deb3caaf61d6c9a338eacc.png/show",
+			"monsters": [
+				{
+					"name": "Risen Chameleos",
+					"icon": "https://img.game8.co/3588184/9b8726e6962edccd8593263d89e1def3.png/show"
+				},
+				{
+					"name": "Risen Kushala Daora",
+					"icon": "https://img.game8.co/3615585/6c6b9758cfdc1ca2cc7bcb99d22748f0.png/show"
+				},
+				{
+					"name": "Risen Teostra",
+					"icon": "https://img.game8.co/3615589/93be23f0bfc1974c99d6f00938b17325.png/show"
+				}
+			],
+			"level": "111-160"
+		},
+		{
+			"name": "Afflicted Dire Claw+",
+			"icon": "https://img.game8.co/3589097/4653163c101f5d862f5b0b1fe2e0ecb8.jpeg/show",
+			"monsters": [
+				{
+					"name": "Rajang",
+					"icon": "https://img.game8.co/3375731/3aa2a4ce2686fc21796cc841f401cf6e.png/show"
+				},
+				{
+					"name": "Pyre Rakna-Kadaki",
+					"icon": "https://img.game8.co/3542028/04fa4376a72ed622e1548abcaad192d4.png/show"
+				}
+			],
+			"level": "111-180"
+		},
+		{
+			"name": "Afflicted Dire Carapace",
+			"icon": "https://img.game8.co/3589094/ef5b4594ce36cf10da127091ffd65aae.png/show",
+			"monsters": [
+				{
+					"name": "Bazelgeuse",
+					"icon": "https://img.game8.co/3375855/a94f869946426db1b1c55cec32b2893a.png/show"
+				},
+				{
+					"name": "Gore Magala",
+					"icon": "https://img.game8.co/3542030/d6381694576ed57eef4fe5376375dc6c.png/show"
+				},
+				{
+					"name": "Espinas",
+					"icon": "https://img.game8.co/3542027/094b9fab96ac1b78370d7e4a2a01f43d.png/show"
+				}
+			],
+			"level": "111-180"
+		},
+		{
+			"name": "Risen Dragon Blood",
+			"icon": "https://img.game8.co/3679191/af84691a6a8ef36c2d79c16571ca02f3.png/show",
+			"monsters": [
+				{
+					"name": "Risen Crimson Glow Valstrax",
+					"icon": "https://img.game8.co/3641339/a37e743a30dbeb2b20ce22d6bba2c08b.png/show"
+				},
+				{
+					"name": "Risen Shagaru Magala",
+					"icon": "https://img.game8.co/3679155/427756a3f98e018100c1d1aaaae4adf0.png/show"
+				}
+			],
+			"level": "131-200"
+		},
+		{
+			"name": "Afflicted Dire Wing+",
+			"icon": "https://img.game8.co/3615852/8fa978477dc6b46ca82f55537a36689b.png/show",
+			"monsters": [
+				{
+					"name": "Silver Rathalos",
+					"icon": "https://img.game8.co/3560002/0aded2abeec4fbd333ab019be7e04ca5.png/show"
+				},
+				{
+					"name": "Gold Rathian",
+					"icon": "https://img.game8.co/3560001/68c7a67057cd3230dc70946b154852a3.png/show"
+				}
+			],
+			"level": "141-200"
+		},
+		{
+			"name": "Afflicted Dire Dragon Blood",
+			"icon": "https://img.game8.co/3615854/b7d316b969088c48c162bcb22c0124a5.png/show",
+			"monsters": [
+				{
+					"name": "Seething Bazelgeuse",
+					"icon": "https://img.game8.co/3560003/98ac395d54edfe678d6aaad02a81a107.png/show"
+				},
+				{
+					"name": "Flaming Espinas",
+					"icon": "https://img.game8.co/3588186/bbc357e037e782dcec7140b595b257c5.png/show"
+				},
+				{
+					"name": "Chaotic Gore Magala",
+					"icon": "https://img.game8.co/3615586/bb1abbada681a7cac98afa232e57264b.png/show"
+				}
+			],
+			"level": "141-200"
+		},
+		{
+			"name": "Afflicted Dire Fang+",
+			"icon": "https://img.game8.co/3589097/4653163c101f5d862f5b0b1fe2e0ecb8.jpeg/show",
+			"monsters": [
+				{
+					"name": "Scorned Magnamalo",
+					"icon": "https://img.game8.co/3542025/c59624851e5c99c4f1bcc0793926a4b9.png/show"
+				},
+				{
+					"name": "Furious Rajang",
+					"icon": "https://img.game8.co/3542036/6f4b8bc92b8f04b69ef96be91c4e2206.png/show"
+				}
+			],
+			"level": "141-200"
+		},
+		{
+			"name": "Risen Dragonbone+",
+			"icon": "https://img.game8.co/3641282/566c79d6617be7f2e21bb4bb5b2ecdde.png/show",
+			"monsters": [
+				{
+					"name": "Risen Chameleos",
+					"icon": "https://img.game8.co/3588184/9b8726e6962edccd8593263d89e1def3.png/show"
+				},
+				{
+					"name": "Risen Kushala Daora",
+					"icon": "https://img.game8.co/3615585/6c6b9758cfdc1ca2cc7bcb99d22748f0.png/show"
+				},
+				{
+					"name": "Risen Teostra",
+					"icon": "https://img.game8.co/3615589/93be23f0bfc1974c99d6f00938b17325.png/show"
+				}
+			],
+			"level": "161-220"
+		},
+		{
+			"name": "Afflicted Dire Slogbone",
+			"icon": "https://img.game8.co/3615857/df1e8fd3b8b858f7e2119ba8939bff8c.png/show",
+			"monsters": [
+				{
+					"name": "Tigrex",
+					"icon": "https://img.game8.co/3375849/8353de000124c6b1931c0c9169435684.png/show"
+				},
+				{
+					"name": "Lunagaron",
+					"icon": "https://img.game8.co/3542029/bb31d50499116fa61d4b9713d96ffb25.png/show"
+				},
+				{
+					"name": "Magma Almudron",
+					"icon": "https://img.game8.co/3542033/e4411018551832fc457d585fa4571e89.png/show"
+				}
+			],
+			"level": "161-300"
+		},
+		{
+			"name": "Afflicted Dire Hardhorn",
+			"icon": "https://img.game8.co/3615856/80a333a65e7058811bb3c9ac3408e2c2.png/show",
+			"monsters": [
+				{
+					"name": "Zinogre",
+					"icon": "https://img.game8.co/3375854/f5f2dfd906d9f5804946e2bbb65ff918.png/show"
+				},
+				{
+					"name": "Diablos",
+					"icon": "https://img.game8.co/3375843/7b9cfb8ccd544f53fb0c18848c1543b3.png/show"
+				},
+				{
+					"name": "Seregios",
+					"icon": "https://img.game8.co/3542031/b71bc78849406985179dceab2b80f218.png/show"
+				}
+			],
+			"level": "161-300"
+		},
+		{
+			"name": "Afflicted Dire Shard",
+			"icon": "https://img.game8.co/3615855/d2ab88bfbdd53312476632b6cae616a0.png/show",
+			"monsters": [
+				{
+					"name": "Rathalos",
+					"icon": "https://img.game8.co/3375852/a574997232739440d53272f4c026d119.png/show"
+				},
+				{
+					"name": "Mizutsune",
+					"icon": "https://img.game8.co/3375823/dbe2ed198bb33237f732f67f95dadf8c.png/show"
+				},
+				{
+					"name": "Astalos",
+					"icon": "https://img.game8.co/3538226/9692c75569ed0d860d92e5035709b4ee.png/show"
+				}
+			],
+			"level": "161-300"
+		},
+		{
+			"name": "Afflicted Dire Hardclaw",
+			"icon": "https://img.game8.co/3615856/80a333a65e7058811bb3c9ac3408e2c2.png/show",
+			"monsters": [
+				{
+					"name": "Rajang",
+					"icon": "https://img.game8.co/3375731/3aa2a4ce2686fc21796cc841f401cf6e.png/show"
+				},
+				{
+					"name": "Pyre Rakna-Kadaki",
+					"icon": "https://img.game8.co/3542028/04fa4376a72ed622e1548abcaad192d4.png/show"
+				}
+			],
+			"level": "181-300"
+		},
+		{
+			"name": "Afflicted Dire Cortex",
+			"icon": "https://img.game8.co/3615853/a8294254fb08ed33a14feeea58807008.png/show",
+			"monsters": [
+				{
+					"name": "Bazelgeuse",
+					"icon": "https://img.game8.co/3375855/a94f869946426db1b1c55cec32b2893a.png/show"
+				},
+				{
+					"name": "Gore Magala",
+					"icon": "https://img.game8.co/3542030/d6381694576ed57eef4fe5376375dc6c.png/show"
+				},
+				{
+					"name": "Espinas",
+					"icon": "https://img.game8.co/3542027/094b9fab96ac1b78370d7e4a2a01f43d.png/show"
+				}
+			],
+			"level": "181-300"
+		},
+		{
+			"name": "Afflicted Dire Darkblood",
+			"icon": "https://img.game8.co/3641281/14da5f17391cfe73396b6f1aed93306c.png/show",
+			"monsters": [
+				{
+					"name": "Seething Bazelgeuse",
+					"icon": "https://img.game8.co/3560003/98ac395d54edfe678d6aaad02a81a107.png/show"
+				},
+				{
+					"name": "Flaming Espinas",
+					"icon": "https://img.game8.co/3588186/bbc357e037e782dcec7140b595b257c5.png/show"
+				},
+				{
+					"name": "Chaotic Gore Magala",
+					"icon": "https://img.game8.co/3615586/bb1abbada681a7cac98afa232e57264b.png/show"
+				}
+			],
+			"level": "201-300"
+		},
+		{
+			"name": "Afflicted Dire Fellwing",
+			"icon": "https://img.game8.co/3641288/b8acc6da3ba87c69467227adf912af63.png/show",
+			"monsters": [
+				{
+					"name": "Silver Rathalos",
+					"icon": "https://img.game8.co/3560002/0aded2abeec4fbd333ab019be7e04ca5.png/show"
+				},
+				{
+					"name": "Gold Rathian",
+					"icon": "https://img.game8.co/3560001/68c7a67057cd3230dc70946b154852a3.png/show"
+				}
+			],
+			"level": "201-300"
+		},
+		{
+			"name": "Afflicted Dire Hardfang",
+			"icon": "https://img.game8.co/3641290/dfab2d97af76da6a51cc9e6907db1564.png/show",
+			"monsters": [
+				{
+					"name": "Scorned Magnamalo",
+					"icon": "https://img.game8.co/3542025/c59624851e5c99c4f1bcc0793926a4b9.png/show"
+				},
+				{
+					"name": "Furious Rajang",
+					"icon": "https://img.game8.co/3542036/6f4b8bc92b8f04b69ef96be91c4e2206.png/show"
+				}
+			],
+			"level": "201-300"
+		},
+		{
+			"name": "Risen Dragon Pureblood",
+			"icon": "https://img.game8.co/3679189/1e9d995e3410a35ce80a05cfce60a936.png/show",
+			"monsters": [
+				{
+					"name": "Risen Crimson Glow Valstrax",
+					"icon": "https://img.game8.co/3641339/a37e743a30dbeb2b20ce22d6bba2c08b.png/show"
+				},
+				{
+					"name": "Risen Shagaru Magala",
+					"icon": "https://img.game8.co/3679155/427756a3f98e018100c1d1aaaae4adf0.png/show"
+				}
+			],
+			"level": "201-240"
+		},
+		{
+			"name": "Risen Slogbone",
+			"icon": "https://img.game8.co/3679192/16c00370f61b2048a5ee5cd662c492a1.png/show",
+			"monsters": [
+				{
+					"name": "Risen Chameleos",
+					"icon": "https://img.game8.co/3588184/9b8726e6962edccd8593263d89e1def3.png/show"
+				},
+				{
+					"name": "Risen Kushala Daora",
+					"icon": "https://img.game8.co/3615585/6c6b9758cfdc1ca2cc7bcb99d22748f0.png/show"
+				},
+				{
+					"name": "Risen Teostra",
+					"icon": "https://img.game8.co/3615589/93be23f0bfc1974c99d6f00938b17325.png/show"
+				}
+			],
+			"level": "221-300"
+		},
+		{
+			"name": "Risen Dragon Thickblood",
+			"icon": "https://img.game8.co/3679190/a43df5dec6ff490a453a586ad746a94b.png/show",
+			"monsters": [
+				{
+					"name": "Risen Crimson Glow Valstrax",
+					"icon": "https://img.game8.co/3641339/a37e743a30dbeb2b20ce22d6bba2c08b.png/show"
+				},
+				{
+					"name": "Risen Shagaru Magala",
+					"icon": "https://img.game8.co/3679155/427756a3f98e018100c1d1aaaae4adf0.png/show"
+				}
+			],
+			"level": "241-300"
+		}
+	]
+}
